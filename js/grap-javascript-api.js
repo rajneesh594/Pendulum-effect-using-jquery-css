@@ -1,3 +1,3 @@
-//DEVELOPED/MAINTAIN BY GRADEVS.TECH
+//DEVELOPED/MAINTAIN BY GRAPDEVS.TECH
 
 var i,j,k,l,grapperc="%",arr=[],pz="<style> .grap-pendu-l {animation: pendu 2.9s; animation-iteration-count: infinite;}@keyframes pendu {",qz="}</style>",sign="-";for(l=0;l<=25;l++){var grapper=l+grapperc,ag=" {transform: translate(0px, 0px) rotate("+l+"deg); } ";arr.push(grapper+ag)}var flag=0;for(i=25,j=25;j<=50;j++){grapper=j+grapperc;var m=i-flag;ag=" {transform: translate(0px, 0px) rotate("+m+"deg); } ",flag++,arr.push(grapper+ag)}for(l=0,flag=0,l=50;l<=72;l++)grapper=l+grapperc,ag=" {transform: translate(0px, 0px) rotate("+sign+flag+"deg); } ",flag++,arr.push(grapper+ag);$("head").prepend(pz+arr.join("")+qz);
