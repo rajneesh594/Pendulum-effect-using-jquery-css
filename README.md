@@ -23,12 +23,12 @@ How to Implement :
 1.Add jquery API [GOOGLE CDN or etc ]at the top of page [as shown in example]
    GOOGLE CDN - https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
 
-2.Add Grapdevs API at the very bottom of page or after the closing of <body> tag
+2.Add Grapdevs API at the very bottom of page or after the closing of body tag
    GrapDevs API - http://api.grapdevs.tech/js/grap-javascript-api.js"
     
-3.Add class -> [grap-pendu-l] on the tag where you want to make a pendulum effect
+3.Add class -> [ grap-pendu-l ] on the tag where you want to make a pendulum effect
 
-Example -> <img class="grap-pendu-l" height="350px;"src="http://api.grapdevs.tech/logo.png">
+Example -> <img class="grap-pendu-l" height="350px;"src="blahblah.jpg">
 
 <h4>AND THAT"S ALL ;-)</h4>
 
