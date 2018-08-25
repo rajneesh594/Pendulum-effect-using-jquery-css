@@ -37,7 +37,7 @@ Example -> <img class="grap-pendu-l" height="350px;"src="blahblah.jpg">
 
 --
 <h5>For queries- mail me at (dev@grapdevs.tech)</h5>
-<h5>Follow me at IG for updates (@grapdevs)</h5>
+<h5>Follow me on IG for more updates (@grapdevs)</h5>
 
 Again sorry for the bad english.
 
