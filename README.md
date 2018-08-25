@@ -1,4 +1,4 @@
-# Pandulum-effect-using-jquery-css
+# Pendulum-effect-using-jquery-css
 why to write a long and long css scripts, which give results as slow response and eat all up of your server space.
 This is an API that is created and Maintain by GrapDevs, a small and beautifull api that create a "CSS script" using javascript and jquery 
 at user side, as creating css at user side makes your website fast to load as you not transferring a large css file from server to user side.
