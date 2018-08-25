@@ -28,7 +28,7 @@ How to Implement :
    https://raw.githubusercontent.com/grapdevs/Pendulum-effect-using-jquery-css/master/js/grap-javascript-api.js - "NOT RECOMENDED"
   
     
-3.Add class -> [ grap-pendu-l ] on the tag where you want to make a pendulum effect
+3.Add class -> [ grap-pendu-l ] on the tag where you want to give a pendulum effect,
 
 Example -> <img class="grap-pendu-l" height="350px;"src="blahblah.jpg">
 
