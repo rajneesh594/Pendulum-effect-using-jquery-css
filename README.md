@@ -14,7 +14,7 @@ http://demo.grapdevs.tech/pendu-demo/
 
 ---
 How this work. <br>
-This script automaticaly creates a css with tansform property [ 0% { transform: translate(0px, 0px) rotate(0deg); }  to  100% { transform: translate(0px, 0px) rotate(0deg); } ]
+This script automatically creates a buch of css lines with tansform property [ 0% { transform: translate(0px, 0px) rotate(0deg); }  to  100% { transform: translate(0px, 0px) rotate(0deg); } ]
 as using this API you don't have to write every single percentage and degree from [0 to 100 & 100 to 0 ] to create pendulum effect.
 
 
