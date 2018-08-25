@@ -24,7 +24,7 @@ How to Implement :
    GOOGLE CDN - https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
 
 2.Add Grapdevs API at the very bottom of page or after the closing of body tag
-   GrapDevs javascript  API - " Download /grap-javascript-api.js and host by your own. Script vailable in js folder" or 
+   GrapDevs javascript  API - " Download /grap-javascript-api.js and host by your own. Script available in js folder" <br>or <br> 
    https://raw.githubusercontent.com/grapdevs/Pendulum-effect-using-jquery-css/master/js/grap-javascript-api.js - "NOT RECOMENDED"
   
     
