@@ -3,7 +3,7 @@ why to write a long and long css scripts, which give results as slow response an
 This is an API that is created and Maintain by GrapDevs, a small and beautifull api that create a "CSS script" using javascript and jquery 
 at user side, as creating css at user side makes your website fast to load as you not transferring a large css file from server to user side.
 
-<h4> DEMO LINK 1</h4>
+<h4> DEMO LINK 1 [Redirects to Home server]</h4>
 http://demo1.grapdevs.tech:8080/pendu-demo/
 
 
