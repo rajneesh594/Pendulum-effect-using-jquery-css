@@ -24,7 +24,9 @@ How to Implement :
    GOOGLE CDN - https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
 
 2.Add Grapdevs API at the very bottom of page or after the closing of body tag
-   GrapDevs API - http://api.grapdevs.tech/js/grap-javascript-api.js"
+   GrapDevs javascript  API - " Download /grap-javascript-api.js and host by your own. Script vailable in js folder" or 
+   https://raw.githubusercontent.com/grapdevs/Pendulum-effect-using-jquery-css/master/js/grap-javascript-api.js - "NOT RECOMENDED"
+  
     
 3.Add class -> [ grap-pendu-l ] on the tag where you want to make a pendulum effect
 
