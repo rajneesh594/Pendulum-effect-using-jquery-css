@@ -4,11 +4,12 @@ This is an API that is created and Maintain by GrapDevs, a small and beautifull 
 at user side, as creating css at user side makes your website fast to load as you not transferring a large css file from server to user side.
 
 <h4> DEMO LINK 1</h4>
-http://demo.grapdevs.tech/pendu-demo/
-
-
-<h4>DEMO LINK 2 </h4>
 http://demo1.grapdevs.tech:8080/pendu-demo/
+
+
+if link 1 is not working
+<h4>DEMO LINK 2 </h4>
+http://demo.grapdevs.tech/pendu-demo/
 
 
 ---
